@@ -2,7 +2,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=A16A00&multiline=true&repeat=false&width=590&height=70&lines=Everything+that+happens+to+you+is+a+form+of+instruction;if+you+pay+attention)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=A16A00&multiline=true&repeat=false&width=590&height=70&lines=Everything+that+happens+to+you+is+a+form+of+instruction;if+you+pay+attention)](https://git.io/typing-svg) 
 <p align="right">- Robert Greene</p>
 
 ###
