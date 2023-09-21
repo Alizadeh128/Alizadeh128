@@ -25,11 +25,9 @@
 </div>
 
 ###
-
 <img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"  />
-
-###
-
 <a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=A16A00&multiline=true&repeat=false&width=590&height=70&lines=Everything+that+happens+to+you+is+a+form+of+instruction;if+you+pay+attention" alt="Typing SVG" /></a>
 
 ###
+
+
