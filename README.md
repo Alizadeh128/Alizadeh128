@@ -30,8 +30,6 @@
 
 ###
 
-//<p align="left">Hello World!!</p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=A16A00&multiline=true&repeat=false&width=590&height=70&lines=Everything+that+happens+to+you+is+a+form+of+instruction;if+you+pay+attention" alt="Typing SVG" /></a>
+<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=A16A00&multiline=true&repeat=false&width=590&height=70&lines=Everything+that+happens+to+you+is+a+form+of+instruction;if+you+pay+attention" alt="Typing SVG" /></a>
 
 ###
